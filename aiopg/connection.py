@@ -383,7 +383,7 @@ class Connection:
         """DSN connection string.
 
         Read-only attribute representing dsn connection string used
-        for connectint to PostgreSQL server.
+        for connecting to PostgreSQL server.
 
         """
         return self._dsn
